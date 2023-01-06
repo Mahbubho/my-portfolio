@@ -172,3 +172,9 @@ textarea{
     gap: 50px
     ;
 }
+.sob{
+    background-color: antiquewhite;
+    border: 4px;
+    border-radius: 10ppx;
+    padding: 10px 5px;
+}
